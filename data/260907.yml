@@ -5,13 +5,13 @@ about:
   head: 5ed47dd
   archived: false
   latestVersion: "v1.4.0"
-  collectedAt: 2026-09-07T06:09:53Z
+  collectedAt: 2026-09-07T18:25:44Z
 timeline:
   created: 2025-02-07
   lastCommit: 2026-06-22
   lastRelease: 2026-03-26
 popularity:
-  star: 132
+  star: 133
   watcher: 1
   fork: 4
   release: 24
@@ -80,7 +80,7 @@ total:
   commit: 589
 ---
 path: /home/runner/.x-repo/github.com/davep/hike
-collectedAt: 2026-09-07T06:09:54Z
+collectedAt: 2026-09-07T18:25:45Z
 loc:
   Python:
     code: 3506
@@ -116,7 +116,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:09:55+00:00
+  collectedAt: 2026-09-07T18:25:47+00:00
   platform:
     darwin/arm64:
       name:  null
